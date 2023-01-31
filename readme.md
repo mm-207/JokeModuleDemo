@@ -4,6 +4,9 @@ This repository is a simple demonstration of how to construct a Javascript modul
 
 # Joke Telling module.
 
+## Why
+There is a need for a better way of telling jokes in software. This module makes it simple to get a new random joke served in any project. Note that jokes are sold separately. 
+
 ## Usage
 ```javascript
 import Joke from "joke.mjs"
